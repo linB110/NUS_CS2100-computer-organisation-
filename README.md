@@ -1,2 +1,1 @@
-# NUS_EE2023-Signal-and-System
-Eletrical Engineering implementation record
+# NUS_CS2100-computer organisation-
