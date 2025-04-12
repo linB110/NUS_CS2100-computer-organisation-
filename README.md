@@ -70,7 +70,6 @@ Be familiar with GCC/GDB
 
 ## 🧠 Learning Outcomes
 
-By completing these labs, you will learn:
 - Fundamental debugging and testing with `gdb`
 - MIPS assembly programming concepts
 - Boolean logic simplification and digital circuit implementation
